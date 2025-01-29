@@ -17,9 +17,9 @@
 
 ### 🚀 About Me
 - 💻 I am a **Computer Engineering Student** passionate about **Software Development**.
-- 🌱 Currently learning **AI, Machine Learning**, and **Web Development**.
-- 🔭 Working on projects with **Java, Python, C++, JavaScript**.
-- 📫 Reach me at **harun.kaya@stu.fsm.edu.tr**.
+- 🌱 Currently learning **AI, Machine Learning**, **Back-end Development** and **Web Development**.
+- 🔭 Working on projects with **Java, Python, C++, C, PLSQL, JavaScript**.
+- 📫 Reach me at **harunn.kayaa.1@gmail.com**.
 
 ---
 
