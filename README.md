@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Kaya</h1>
-<h3 align="center">A passionate Software Developer and Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student | Backend & System Development Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/harunnkayaa" target="_blank">
@@ -15,59 +15,45 @@
 
 ---
 
-### 🚀 About Me
-- 💻 I am a **Computer Engineering Student** passionate about **Software Development**.
-- 🌱 Currently learning **AI, Machine Learning**, **Back-end Development** and **Web Development**.
-- 🔭 Working on projects with **Java, Python, C++, C, PLSQL, JavaScript**.
-- 📫 Reach me at **harunn.kayaa.1@gmail.com**.
+# 👨‍💻 About Me
 
----
+- 🎓 **Computer Engineering Student**
+- 🥇 **Department Valedictorian (GPA: 3.77 / 4.00)**
+- 💻 Passionate about **Backend Development, System Design and AI**
+- 🔧 Experienced in building **real-world backend systems and distributed applications**
+- 🌍 Interested in **AI systems, scalable backend architectures and intelligent applications**
 
-### 🛠 Languages & Tools
+
+
+# 🛠 Technologies & Tools
 
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harunnkayaa&show_icons=true&theme=github_dark&count_private=true" alt="Harun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harunnkayaa&show_icons=true&theme=github_dark&count_private=true" />
 </p>
 
 ---
 
-### 📊 Most Used Languages
+# 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunnkayaa&layout=compact&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunnkayaa&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-⭐️ **If you like my work, consider giving a star to my repositories!** ⭐️
+⭐️ **If you find my projects interesting, feel free to explore and star the repositories!**
