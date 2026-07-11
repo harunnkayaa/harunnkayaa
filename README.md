@@ -17,8 +17,8 @@
 
 # 👨‍💻 About Me
 
-- 🎓 **Computer Engineering Student**
-- 🥇 **Department Valedictorian (GPA: 3.77 / 4.00)**
+- 🎓 **Computer Engineer**
+- 🥇 **Department Valedictorian (GPA: 3.79 / 4.00)**
 - 💻 Passionate about **Backend Development, System Design and AI**
 - 🔧 Experienced in building **backend systems and distributed applications**
 - 🌍 Interested in **AI systems, scalable architectures and intelligent software**
