@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Kaya</h1>
-<h3 align="center">Computer Engineering Student | Backend & System Development Enthusiast</h3>
+<h3 align="center">Computer Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/harunnkayaa" target="_blank">
